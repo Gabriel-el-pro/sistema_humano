@@ -13,7 +13,7 @@
     >
     
       <v-img
-          src="https://www.flaticon.es/svg/static/icons/svg/1177/1177527.svg"
+          src="../assets/iniciar.png"
           width="160"
           height="160"
           class="animation"
